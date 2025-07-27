@@ -1,0 +1,9 @@
+# PDF Processing Libraries
+PyMuPDF==1.23.8
+pdfminer.six==20221105
+
+# Standard libraries (usually included with Python)
+# json, os, sys, pathlib, datetime, typing, re, logging
+
+# Additional utilities (if needed)
+# No additional dependencies required for basic functionality 
